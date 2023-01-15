@@ -1,0 +1,40 @@
+.row {
+    padding: 5px;
+}
+div {
+    background-color: #a1b5cb;
+    text-align: center ;
+} 
+#nombre{
+    font-weight:bold;
+    margin-top: 5%;
+ 
+}
+#acerca {
+  margin-top: 7%;
+}
+
+@media(min-width: 576px){
+  #fotoDePerfil {
+    position: absolute;
+    width: 15%;
+    border-radius: 100%;
+    box-shadow: 1px 1px 1px grey;
+    top: 650px;
+    left: 20px;
+  }
+}
+@media(max-width: 575px) {
+  #fotoDePerfil {
+    position: absolute;
+    width: 30%;
+    border-radius: 100%;
+    box-shadow: 1px 1px 1px grey;
+    top: 600px;
+    left: 160px;
+  }
+  #nombre{
+      margin-top:80px;
+  }
+
+}

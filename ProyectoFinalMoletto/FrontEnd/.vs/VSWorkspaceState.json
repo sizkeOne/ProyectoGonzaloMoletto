@@ -4,11 +4,9 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\components",
-    "\\src\\app\\components\\educacion",
-    "\\src\\app\\components\\experiencia",
     "\\src\\app\\components\\header",
-    "\\src\\app\\components\\proyectos",
-    "\\src\\app\\components\\social"
+    "\\src\\app\\components\\logo-ap"
   ],
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
